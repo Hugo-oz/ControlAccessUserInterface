@@ -1,0 +1,7 @@
+'DRIVER={SQL Server};SERVER=;DATABASE=;UID=;PWD=;'
+
+DRIVER = '{SQL Server}'
+SERVER = ''
+DATABASE = ''
+UID = ''
+PWD = ''
